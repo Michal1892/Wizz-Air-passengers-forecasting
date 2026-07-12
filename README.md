@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="images/wizzair_logo.png" width="250">
+<img src="wizzair_logo.png" width="250">
 
 ## Project Overview
 
