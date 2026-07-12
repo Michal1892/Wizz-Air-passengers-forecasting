@@ -4,6 +4,8 @@
 
 <img src="wizzair_logo.png" width="250">
 
+<div align="left">
+  
 ## Project Overview
 
 This project focuses on forecasting the monthly number of passengers of **Wizz Air** using time series modelling techniques.
