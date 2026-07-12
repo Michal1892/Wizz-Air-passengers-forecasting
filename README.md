@@ -49,3 +49,5 @@ The repository includes:
 ## Author
 
 Project developed as a time series forecasting analysis of Wizz Air passenger traffic.
+
+The main results of the analysis, including forecast values and visualizations, are available in the file **`WizzAir_forecast.pdf`**.
